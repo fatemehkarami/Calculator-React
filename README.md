@@ -12,8 +12,10 @@ The Calculator app allows users to perform basic arithmetic operations such as a
 
 ## Features
 
-- Addition, subtraction, multiplication, and division operations
-- Clear button to reset the input
+- Addition, subtraction, multiplication, and division operations.
+- Percentage calculation to easily calculate percentages.
+- Negation of numbers to change the sign of a number.
+- Clear button to reset the input.
 
 ## Installation
 
