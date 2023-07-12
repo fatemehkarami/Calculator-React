@@ -19,11 +19,11 @@ The Calculator app allows users to perform basic arithmetic operations such as a
 
 Clone the repository, navigate to the project directory, install the dependencies, and start the development server using the following commands:
 
-git clone https://github.com/your-username/calculator.git
-cd calculator
-npm install
-npm start
-Open your web browser and visit http://localhost:3000 to access the calculator app.
+- git clone [https://github.com/your-username/calculator.git](https://github.com/fatemehkarami/Calculator-React.git)
+- cd calculator
+- npm install
+- npm start
+- Open your web browser and visit http://localhost:3000 to access the calculator app.
 
 ## Usage
 
@@ -35,4 +35,3 @@ Open your web browser and visit http://localhost:3000 to access the calculator a
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-# Calculator-React
